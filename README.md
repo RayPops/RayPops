@@ -96,5 +96,5 @@ AI applied across:
 
 ```python
 def mission():
-    return "AI systems that matter in the physical world"
+    return "Ecosystem inspired AI systems"
 ```
